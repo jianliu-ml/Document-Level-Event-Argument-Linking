@@ -11,4 +11,4 @@
 ## Training Instructions
 - Run `python preprocess.py` for preprocessing, which will generate a `data.pk` file (We have released the back translation results in the file `back_translation_result.txt` to ease the preprocessing steps).
 - Run `train.py` for model training, which will save the model at the `models` directory.
-- Run `evaluate.py` for model evaluation.# Document-Level-Event-Argument-Linking
+- Run `evaluate.py` for model evaluation.
